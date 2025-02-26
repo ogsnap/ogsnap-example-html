@@ -1,0 +1,22 @@
+{
+  "name": "ogsnap-example-html",
+  "version": "1.0.0",
+  "description": "A simple HTML template for creating dynamic Open Graph images with OgSnap. Customize your social media previews with dynamic parameters.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [
+    "ogsnap",
+    "open-graph",
+    "social-cards",
+    "dynamic-images",
+    "html-template"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
